@@ -1,0 +1,17 @@
+# 프론트엔드
+front/node_modules/
+front/build/
+
+# 백엔드
+back/build/
+back/.gradle/
+back/out/
+back/*.iml
+
+# 공통 IDE/OS
+.idea/
+.vscode/
+.DS_Store
+
+# 로그
+*.log
